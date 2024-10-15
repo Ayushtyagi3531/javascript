@@ -22,6 +22,9 @@
 .title{
     color: red
 }
+.weather{
+    display:none;
+}
 
 .weather-icon {
     width: 100px; /* Width for the weather icon */
